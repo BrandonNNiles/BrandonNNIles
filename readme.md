@@ -18,6 +18,4 @@ Project Management: Github / Trello / Google Drive / FileZilla / Notion
 ### Projects
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonnniles)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=brandonnniles)  
-
 ![Profile views](https://gpvc.arturio.dev/brandonnniles)  
