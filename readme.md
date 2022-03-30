@@ -10,9 +10,9 @@
 ##### [Website](brandonniles00@gmail.com "Website")
 
 ### Technical Skills
-Languages: Python / C / Java / Lua / SQL / JS / HTML / CSS
-Technologies: Git / SQLite / Hammer SDK / Sony Vegas / PuTTY
-Frameworks and Libraries: Node.js / Discord.js-py / OpenCV / D3.js
+Languages: Python / C / Java / Lua / SQL / JS / HTML / CSS  
+Technologies: Git / SQLite / Hammer SDK / Sony Vegas / PuTTY  
+Frameworks and Libraries: Node.js / Discord.js-py / OpenCV / D3.js  
 Project Management: Github / Trello / Google Drive / FileZilla / Notion
 
 ### Projects
