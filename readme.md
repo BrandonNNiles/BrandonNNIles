@@ -6,8 +6,8 @@
 ---
 
 ##### [Contact Me](mailto:brandonniles00@gmail.com "EMail")
-##### [Resume](brandonniles.com/resume "Resume")
-##### [Website](brandonniles.com "Website")
+##### [Resume](http://www.brandonniles.com/resume "Resume")
+##### [Website](http://www.brandonniles.com "Website")
 
 ### Technical Skills
 Languages: Python / C / Java / Lua / SQL / JS / HTML / CSS  
