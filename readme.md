@@ -1,19 +1,8 @@
-<head>
-    <style>
-        *{
-            background-color: #2D283E;
-        }
-        h1:hover{
-            color: red
-        }
-    </style>
-</head>
-
 <h1 align="center">
     <i>Brandon Niles</i>
 </h1>
 
-<h3 align="center" onHover="color: red">
+<h3 align="center">
     <u>Full-Stack Developer</u>
 </h3>
 
