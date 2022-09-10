@@ -1,8 +1,24 @@
-# ***<center>Brandon Niles</center>***
-#### <center>Full-Stack Developer</center>
+<head>
+    <style>
+        *{
+            background-color: #2D283E;
+        }
+        h1:hover{
+            color: red
+        }
+    </style>
+</head>
+
+<h1 align="center">
+    <i>Brandon Niles</i>
+</h1>
+
+<h3 align="center" onHover="color: red">
+    <u>Full-Stack Developer</u>
+</h3>
+
 #### Computer Science + User Experience and Design Student at WLU
 ##### ***==Currently seeking software developer position==***
-
 ---
 ### About me
 ##### [Contact Me](mailto:brandonniles00@gmail.com "EMail")
@@ -20,6 +36,10 @@ Node.js / Discord.js-py / OpenCV / D3.js
 Github / Trello / FileZilla
 
 ### Projects
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonnniles)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonnniles">
+</div>
 
-![Profile views](https://gpvc.arturio.dev/brandonnniles)
+<div align="center">
+    <img width="150" src="https://gpvc.arturio.dev/brandonnniles" alt="Github View Stats">
+</div>
