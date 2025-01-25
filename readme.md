@@ -6,18 +6,15 @@
     <u>Full-Stack Developer</u>
 </h3>
 
-#### Computer Science + User Experience and Design Student at WLU
-##### ***==Currently seeking software developer position==***
+#### Intermediate Investment Developer @ Equitable
+#### Full-Stack Freelance Developer
+##### Computer Science + User Experience and Design
+
 ---
-### About me
+### About
+With several years of software development experience under my belt, I'm constantly looking for new ways to expand my skill set. I'm passionate about game development, the outdoors, and healthy living. Let's connect!
+### Contact
 ##### [Contact Me](mailto:brandonniles00@gmail.com "EMail")
 ##### [Resume](http://www.brandonniles.com/resume "Resume")
 ##### [Website](http://www.brandonniles.com "Website")
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonnniles">
-</div>
-
-<div align="center">
-    <img width="150" src="https://gpvc.arturio.dev/brandonnniles" alt="Github View Stats">
-</div>
